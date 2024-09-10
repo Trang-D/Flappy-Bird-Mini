@@ -1,0 +1,16 @@
+.\flappybird.o: FlappyBird.c
+.\flappybird.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flappybird.o: ../inc/tm4c123gh6pm.h
+.\flappybird.o: ST7735.h
+.\flappybird.o: Print.h
+.\flappybird.o: Random.h
+.\flappybird.o: TExaS.h
+.\flappybird.o: ADC.h
+.\flappybird.o: Images.h
+.\flappybird.o: Sound.h
+.\flappybird.o: Timer0.h
+.\flappybird.o: Timer1.h
+.\flappybird.o: FlappyBirdImage.h
+.\flappybird.o: DAC.h
+.\flappybird.o: EdgeTrigger.h
+.\flappybird.o: Phrases.h
